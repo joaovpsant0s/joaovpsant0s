@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/dragon-ball-banner.svg" width="100%" alt="João Victor — JVZerinho. Treinando um commit de cada vez. Banner inspirado em Dragon Ball com a esfera de quatro estrelas." />
+  <img src="assets/dragon-ball-banner.svg" width="100%" alt="João Victor — joaovpsant0s. Treinando um commit de cada vez. Banner inspirado em Dragon Ball com a esfera de quatro estrelas." />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1400&amp;color=F28C28&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Engenharia+de+Software+na+UnB;Projetos%2C+estudos+e+um+pouco+de+ki;Treinando+um+commit+de+cada+vez." width="100%" alt="Engenharia de Software na UnB. Projetos, estudos e um pouco de ki. Treinando um commit de cada vez." />
 </div>
 
