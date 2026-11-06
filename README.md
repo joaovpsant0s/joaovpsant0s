@@ -35,10 +35,10 @@ Também uso Pandas, NumPy, scikit-learn e Streamlit nos estudos com dados, além
 ## 🐉 Radar de evolução
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVZerinho&amp;theme=github_dark" width="100%" alt="Resumo de contribuições públicas de JVZerinho no GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovpsant0s&amp;theme=github_dark" width="100%" alt="Resumo de contribuições públicas de JVZerinho no GitHub" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JVZerinho&amp;theme=github_dark" width="48%" alt="Linguagens com mais commits nos repositórios analisados" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JVZerinho&amp;theme=github_dark&amp;utcOffset=-3" width="48%" alt="Distribuição dos commits por horário, no fuso UTC-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaovpsant0s&amp;theme=github_dark" width="48%" alt="Linguagens com mais commits nos repositórios analisados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaovpsant0s&amp;theme=github_dark&amp;utcOffset=-3" width="48%" alt="Distribuição dos commits por horário, no fuso UTC-3" />
   <br />
   <sub>Cada commit conta no treinamento. ⚡</sub>
 </div>
